@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "sXk7+8u5tjxhsjiDqoc2UW1zZ2/wGfoRqvEC3lIBvl/3quG6DczqEzpG0dXyc6FLhsFA5BASxQ4fuqwIHNjoLQ==",
+  "success": true,
+  "projectFilePath": "/Users/viratgupta/skinet/Core/Core.csproj",
+  "expectedPackageFiles": [
+    "/Users/viratgupta/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/viratgupta/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
